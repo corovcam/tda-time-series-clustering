@@ -1,0 +1,10 @@
+*.pdf
+*.tex
+*.sty
+*.html
+ex.2.8.11.py
+.output/
+eeg+database/
+data/SMNI_CMI_TRAIN/
+data/SMNI_CMI_TEST/
+*.zip
