@@ -73,7 +73,7 @@ Before running the experiments, ensure you have the following software and libra
   - Alternatively, you can run the `3-300-series-lazy-witness-clustering.ipynb` notebook to perform clustering using the lazy witness complex: (but this one has similar results to the main notebook)
 
   ```bash
-  jupyter notebook 3-300-series-lazy-witness-clustering.ipynb
+  jupyter notebook 3-600-series-lazy-witness-clustering.ipynb
   ```
 
 ## License
